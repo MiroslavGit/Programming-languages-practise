@@ -1,0 +1,10 @@
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\ci cislo je delitelne zadanym cislom\treti_c_sharp\bin\Debug\treti_c_sharp.exe.config
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\ci cislo je delitelne zadanym cislom\treti_c_sharp\bin\Debug\treti_c_sharp.exe
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\ci cislo je delitelne zadanym cislom\treti_c_sharp\bin\Debug\treti_c_sharp.pdb
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\ci cislo je delitelne zadanym cislom\treti_c_sharp\obj\Debug\treti_c_sharp.csproj.AssemblyReference.cache
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\ci cislo je delitelne zadanym cislom\treti_c_sharp\obj\Debug\treti_c_sharp.Form1.resources
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\ci cislo je delitelne zadanym cislom\treti_c_sharp\obj\Debug\treti_c_sharp.Properties.Resources.resources
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\ci cislo je delitelne zadanym cislom\treti_c_sharp\obj\Debug\treti_c_sharp.csproj.GenerateResource.cache
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\ci cislo je delitelne zadanym cislom\treti_c_sharp\obj\Debug\treti_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\ci cislo je delitelne zadanym cislom\treti_c_sharp\obj\Debug\treti_c_sharp.exe
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\ci cislo je delitelne zadanym cislom\treti_c_sharp\obj\Debug\treti_c_sharp.pdb

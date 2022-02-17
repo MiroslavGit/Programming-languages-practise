@@ -1,0 +1,10 @@
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\kvadraticka f\druhy_c_sharp\obj\Debug\druhy_c_sharp.csproj.AssemblyReference.cache
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\kvadraticka f\druhy_c_sharp\obj\Debug\druhy_c_sharp.Form1.resources
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\kvadraticka f\druhy_c_sharp\obj\Debug\druhy_c_sharp.Properties.Resources.resources
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\kvadraticka f\druhy_c_sharp\obj\Debug\druhy_c_sharp.csproj.GenerateResource.cache
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\kvadraticka f\druhy_c_sharp\obj\Debug\druhy_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\kvadraticka f\druhy_c_sharp\bin\Debug\druhy_c_sharp.exe.config
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\kvadraticka f\druhy_c_sharp\bin\Debug\druhy_c_sharp.exe
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\kvadraticka f\druhy_c_sharp\bin\Debug\druhy_c_sharp.pdb
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\kvadraticka f\druhy_c_sharp\obj\Debug\druhy_c_sharp.exe
+C:\Users\miros\OneDrive\Počítač\maturita\PRG\kvadraticka f\druhy_c_sharp\obj\Debug\druhy_c_sharp.pdb
